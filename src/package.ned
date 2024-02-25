@@ -1,0 +1,3 @@
+package cps;
+
+@license(LGPL);

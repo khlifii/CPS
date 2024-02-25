@@ -1,0 +1,29 @@
+file 1581 1708857560                                            
+version 3
+run General-0-20240225-11:38:08-11852
+attr configname General
+attr datetime 20240225-11:38:08
+attr datetimef 20240225-113808
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsd ""
+attr iterationvarsf ""
+attr measurement ""
+attr network VehicleNetwork
+attr processid 11852
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+config network VehicleNetwork
+config record-eventlog true
+config sim-time-limit 500s
+
+vector 0 VehicleNetwork totalDelay:vector ETV
+attr recordingmode vector
+attr source delay
+0	615 306 1 9 0 160.582470751834 9 31.182739839423 52.897280992474 388.88059647055 17303.992957701
+0	921 658 10 26 191.765210591257 476.548548550346 17 12.835648786277 58.183138202876 620.4234106862 24918.300198505
+
